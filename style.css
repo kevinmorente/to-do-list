@@ -7,7 +7,12 @@
 }
 
 body{
+    height: 100vh;
     background: url("./img/backgraund-to-do-list.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: cover;
 }
 
 .container{
